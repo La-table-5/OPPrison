@@ -1,0 +1,5 @@
+name: PrisonLT5
+version: ${project.version}
+main: LT5.Prison
+api-version: 1.16
+authors: [ Bwandon, escamo, casdix, jigeasse, dewey, bydozz ]
