@@ -6,3 +6,4 @@ Ce projet github correspond au différents code pour notre pojet de serveur pris
 
 - Clément Dhaisne
 - Alexandre Riviere
+- Brandon Gutierrez
